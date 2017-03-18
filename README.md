@@ -24,7 +24,10 @@ This means you can refer to them with pin numbers and write values.
 
 ## Usage
 
-Below you can find several use cases with examples.
+* Arduino: [Installing Additional Arduino Libraries](https://www.arduino.cc/en/guide/libraries)
+* PlatformIO: [Library Manager](http://docs.platformio.org/en/latest/librarymanager/index.html)
+
+## Examples
 
 ### Initialization
 
