@@ -58,7 +58,7 @@ init() {
 
 This will connect the ds, shcp and stcp inputs of 74HC595 to Arduino UNO's 2nd, 3rd and 4th output pins as shown on the schematics below:
 
-<img src="sreg-init-1.png" alt="sreg init" width="700">
+<img src="docs/sreg-init-1.png" alt="sreg init" width="700">
 
 Fig. 1
 
@@ -67,7 +67,7 @@ Example - 2 daisy-chained shift registers initialization:
 ```c
 sreg_init(2, 3, 4, 0b1111110011111100, 2);
 ```
-<img src="sreg-daisy.png" alt="sreg init" width="700">
+<img src="docs/sreg-daisy.png" alt="sreg init" width="700">
 
 Fig. 2
 
