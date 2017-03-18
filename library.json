@@ -1,0 +1,21 @@
+{
+  "name": "sreg",
+  "keywords": "shift, register, 74hc595",
+  "description": "Arduino compatible library for working with 74HC595 shift register ICs",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/venelinpetrov/sreg.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Venelin Petrov",
+      "email": "vpetrov33tu@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "version": "0.1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
