@@ -1,8 +1,10 @@
 # Library for 74HC595 shift register IC
 
-'sreg' is a Arduino compatible library that provides a useful set of higher level routines for controlling 74HC595
-shift register(s) IC (Integrated Circuit). These ICs are widely used as IO expanders for
+'sreg' is an Arduino compatible library that provides a useful set of higher level routines for controlling 74HC595
+shift register(s) ICs (Integrated Circuit). These ICs are widely used as IO expanders for
 digital signal outpus.
+
+Datasheet can be found here: http://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf
 
 ## Dependencies
 The library is designed to work within the Arduino framework. So this is the only dependency.
