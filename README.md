@@ -18,7 +18,7 @@ Many developement boards out there are Arduino compatible and the library will w
 - Test all pin values
 - Daisy-chain multiple shift registers
 
-## Mental model
+## Description
 Technically, you don't write to shift register, nor you read from. You shift values on clock
 cycles and then latch them to the outputs. However it is more convenient to think of the shift
 register outputs as if they were part of your controller (e.g Arduino, Teensy).
